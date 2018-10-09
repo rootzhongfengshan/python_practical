@@ -1,0 +1,2 @@
+本目录包括两个脚本，SentMail.py是利用Python和163邮箱发送邮件，
+SentMailWithAttachment.py是利用python和163邮箱发送带附件的邮件
